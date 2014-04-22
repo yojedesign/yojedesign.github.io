@@ -1,0 +1,43 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'R&eacute;gis Bamba'
+tagline:          'Ivorian Entrepreneur'
+description:      'I&apos;m <a href="/">R&eacute;gis Bamba</a>, a developer turned into an entrepreneur.<br /><br /> I am from Ivory Coast and I blog about technology and entrepreneurship.<br /><br /> I write in English and French.'
+url:              http://www.regisbamba.com
+
+author:
+  name:           'R&eacute;gis Bamba'
+  url:            https://twitter.com/regisbamba
+
+paginate:         5
+
+image:
+  source: public/img
+  output: generated
+  presets:
+    post_excerpt_img:
+      attr:
+        class: callout
+        itemprop: image
+      width: 150
+    post_content_img:
+      attr:
+        class: callout
+        itemprop: image
+      width: 250    
+    post_content_img_right:
+      attr:
+        class: callout_right
+        itemprop: image
+      width: 250 
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/regisbamba/regisbamba..github.com
