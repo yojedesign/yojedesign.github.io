@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'R&eacute;gis Bamba'
+title:            'Bacely YoroBi'
 tagline:          'Ivorian Entrepreneur'
-description:      'I&apos;m <a href="/">R&eacute;gis Bamba</a>, a developer turned into an entrepreneur.<br /><br /> I am from Ivory Coast and I blog about technology and entrepreneurship.<br /><br /> I write in English and French.'
-url:              http://www.regisbamba.com
+description:      'I&apos;m <a href="/">Bacely YoroBi</a>, a Internet Strategist and ITC4D Enthusiast<br /><br /> I am from Ivory Coast and I blog about technology , Design , Gaming and entrepreneurship.<br /><br /> I write in English and French.'
+url:              http://www.bacelyyorobi.ci
 
 author:
-  name:           'R&eacute;gis Bamba'
-  url:            https://twitter.com/regisbamba
+  name:           'Bacely YoroBi'
+  url:            https://twitter.com/bacelyy
 
 paginate:         5
 
@@ -40,4 +40,4 @@ image:
 version:          2.0.0
 
 github:
-  repo:           https://github.com/regisbamba/regisbamba..github.com
+  repo:           https://github.com/yojedesign/bacelyyorobi.github.com
